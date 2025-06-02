@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://GITHUB_USERNAME.github.io/goit-js-hw-10/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-10/",
@@ -16,6 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "flatpickr": "^4.6.13",
-    "izitoast": "^1.4.0"
+    "izitoast": "^1.4.0",
+    "vite-plugin-full-reload": "^1.0.5",
+    "vite-plugin-html-inject": "^1.0.1"
   }
 } 
